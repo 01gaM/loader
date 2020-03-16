@@ -8,3 +8,6 @@
 *Использование github pages не обязательно, но без его использования невозможно набрать максимальное количество баллов*;
 *Статья об использовании [аницмации в css](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Ispolzovanie_CSS_animatciy)*;
 *Ответы на некоторые вопросы по [эффективной анимации](https://habr.com/ru/post/308006/)*;
+
+
+### Ссылка на github pages: https://01gam.github.io/loader/
